@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32112.339
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FeatureFileSnippetConverter", "FeatureFileSnippetConverter\FeatureFileSnippetConverter.csproj", "{206E1D22-BEA5-4131-B332-7631E43F549B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{206E1D22-BEA5-4131-B332-7631E43F549B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{206E1D22-BEA5-4131-B332-7631E43F549B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{206E1D22-BEA5-4131-B332-7631E43F549B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{206E1D22-BEA5-4131-B332-7631E43F549B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2601B02C-3E05-4806-A04C-1CE703542C02}
+	EndGlobalSection
+EndGlobal
